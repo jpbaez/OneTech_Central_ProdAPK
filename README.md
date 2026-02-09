@@ -1,1 +1,1 @@
-# OneTech_Central_ProdAPK
+# Release artifacts repository.
